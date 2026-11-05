@@ -1,5 +1,6 @@
 [project]
 name = "denoising-diffusion-pytorch"
+version = "2.3.4"
 dynamic = ["version"]
 description = "Denoising Diffusion Probabilistic Models - Pytorch"
 authors = [
